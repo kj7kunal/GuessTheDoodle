@@ -4,7 +4,7 @@ Inspired by the popular instagram filter game,
 [Guess the Gibberish](https://www.facebook.com/sparkarhub/effect/view/529967291024041/),
 and using the [Google Quick Draw Dataset](https://github.com/googlecreativelab/quickdraw-dataset),
 **[GuessTheDoodle](https://www.facebook.com/sparkarhub/effect/view/515553142586906/)**
-is a word game that prompts the user to guess the doodle before it finishes drawing.
+is a game that prompts the user to guess the doodle before it finishes drawing.
 
 ![Logo](images/logo.png)
 
